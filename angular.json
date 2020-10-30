@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "CampusInfoRelease"
+    }
+  },
+  "defaultProject": "CampusInfoRelease",
+  "cli": {
+    "analytics": false
+  }
 }
